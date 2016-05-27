@@ -6,6 +6,11 @@ An oceanographic (or waterways) data buoy containing a sensor to measure the wat
 All harwdware is operational (in a prototypeing state) and the software runs the turbidity sensor. Awaiting GSM communications capabilities.
 
 ## Hardware List
+* Arduino 101
+* Arduino GSM shield
+* Battery
+* 3 inch outside diameter, schedule 40 PVC, or ABS sewer pipe
+* Qty 2, # inch PVC male adapters http://www.homedepot.com/p/Project-Panels-FOAMULAR-1-in-x-2-ft-x-2-ft-R-5-Insulation-Sheathing-PP1/203553730
 ### Enclosure
 The enclosure is made of 3 inch schedule 40 PVC pipe and fittings with the exception of the stability ring. There's nothing particular about schedule 40 other than it's the least expensive. You could use schedule 80, or different colored pipe. I would have liked clear, but clear is considerably more expensive.
 
