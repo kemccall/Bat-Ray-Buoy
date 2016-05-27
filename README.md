@@ -11,7 +11,7 @@ The small building near Wind River building D (1321 Atlantic Ave, Alameda, Calif
     The building is not casting a shadow over the viewing area
     The water is fairly clear
 
- ##Goal
+##Goal
 
 Build and deploy a buoy in Encinal basin behind building D. The buoy will contain a sensor to measure the clarity (turbidity) of the water and network the data to a host computer. Tidal and turbidity data will be compared with shadow information and presented to the user on a mobile device. I think this would entail Arduino(s) and Galileo hardware and Rocket.
 
