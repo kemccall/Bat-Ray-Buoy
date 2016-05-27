@@ -10,7 +10,10 @@ All hardware is operational (in a prototype state) and the software runs the tur
 * Arduino GSM shield
 * Battery
 * 3 inch outside diameter, schedule 40 PVC, or ABS sewer pipe
-* Qty 2, # inch PVC male adapters http://www.homedepot.com/p/Project-Panels-FOAMULAR-1-in-x-2-ft-x-2-ft-R-5-Insulation-Sheathing-PP1/203553730
+* Qty 1, 3 inch ABS cleanout plug (http://www.osh.com/Osh-Categories/Plumbing/Rough-Plumbing/Pipes-%26-Fittings/Abs-Fittings/Canplas-Cleanout-Plug%2C-3-Inch%2C-ABS/p/1447374).
+* Qty 1, # inch ABS counter sunk cleanout (http://www.osh.com/Osh-Categories/Plumbing/Rough-Plumbing/Pipes-%26-Fittings/Abs-Fittings/Canplas-Countersunk-Cleanout-Plug-With-O-Ring%2C-3-Inch%2C-ABS/p/1827690)
+* 
+* http://www.homedepot.com/p/Project-Panels-FOAMULAR-1-in-x-2-ft-x-2-ft-R-5-Insulation-Sheathing-PP1/203553730
 ### Enclosure
 The enclosure is made of 3 inch schedule 40 PVC pipe and fittings with the exception of the stability ring. There's nothing particular about schedule 40 other than it's the least expensive. You could use schedule 80, or different colored pipe. I would have liked clear, but clear is considerably more expensive.
 
