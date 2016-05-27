@@ -19,7 +19,7 @@ This could provide an interesting service to Alameda and beyond, possibly garner
 
 Expansion of the initial sensing could include things such as salinity, dissolved oxygen, electrical conductivity, temperature etc. Possibly becoming part of the Data Buoy Coop Panel community (part of the Joint Technical Commission for Oceanography and Marine Meteorology) in supplying beneficial scientific data.
 
-###Condition #1 is readily obtainable from tide charts and empirical data. Tide chart data for a year in advance is available online (Alameda, CA  StationId: 9414750 here). Or, tides can be calculated on the Arduino.  My observations indicate tides of over +3.5 ft are good.
+*Condition #1 is readily obtainable from tide charts and empirical data. Tide chart data for a year in advance is available online (Alameda, CA  StationId: 9414750 here). Or, tides can be calculated on the Arduino.  My observations indicate tides of over +3.5 ft are good.
 
 ###Condition #2 is easily calculated (here). This is a nice to have feature, maybe not necessary.
 
