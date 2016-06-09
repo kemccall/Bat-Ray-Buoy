@@ -19,6 +19,8 @@ All hardware is operational (in a prototype state) and the software runs the tur
 ### Enclosure
 The enclosure is made of 3 inch ABS (or schedule 40 PVC) pipe and fittings with the exception of the stability ring. There's nothing particular about the ABS sewer pipe I used  other than it's expensive and readily available. You could use schedule 40 or 80 PVC, or different colored pipe. I would have liked clear PVC, but clear is considerably more expensive.
 
+See the wiki for pictures.
+
 I've attempted to make the simplest mechanical device, using readily avaiable materials from local (USA) hardware stores. Simplicity of construction with the least number of connections should provide confidence in water tightness. Here's an example of schedule 40 pipe http://www.pvcfittingsonline.com/pipe/schedule-40-pvc-pipe.html. Here in the states we can often find it in short lengths (12 to 18 inches) so you don't need to buy a long standard length. Additionally a variety of caps are used as well for the top and bottom ends. 
 ### Stablilty Ring
 My prototype for the stability ring is made from Foamular(tm) rigid insulation, because it's very easy to work with and inexpensive. Eventually I'll 3D print the ring probably out of PLA. Here's the exact piece of insulation I used that allowed me to cut several rings. that I painted. http://www.homedepot.com/p/Project-Panels-FOAMULAR-1-in-x-2-ft-x-2-ft-R-5-Insulation-Sheathing-PP1/203553730.
