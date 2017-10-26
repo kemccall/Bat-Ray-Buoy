@@ -17,7 +17,7 @@ All hardware is operational (in a prototype state) and the software runs the tur
 * http://www.homedepot.com/p/Project-Panels-FOAMULAR-1-in-x-2-ft-x-2-ft-R-5-Insulation-Sheathing-PP1/203553730
 
 ### Enclosure
-The enclosure is made of 3 inch ABS (or schedule 40 PVC) pipe and fittings with the exception of the stability ring. There's nothing particular about the ABS sewer pipe I used  other than it's expensive and readily available. You could use schedule 40 or 80 PVC, or different colored pipe. I would have liked clear PVC, but clear is considerably more expensive.
+The enclosure is made of 3 inch ABS (or schedule 40 PVC) pipe and fittings with the exception of the stability ring. There's nothing particular about the ABS sewer pipe I used  other than it's inexpensive and readily available. You could use schedule 40 or 80 PVC, or different colored pipe. I would have liked clear PVC, but clear is considerably more expensive.
 
 See the wiki for pictures.
 
