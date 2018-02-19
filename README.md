@@ -9,8 +9,10 @@ All hardware is operational (in a prototype state) and the software runs the tur
 
 * Arduino 101
 * Arduino GSM shield
-* Battery
-* 3 inch outside diameter, schedule 40 PVC, or ABS sewer pipe
+* Battery w/solar charger would be nice.
+* Amphenol TSW-10 or TSD-10 turbidity sensor. These are used in household washing machines and cost about $3 each.
+* Dallas DS18B20 1 wire digital thermometer.
+* 3 inch outside diameter, schedule 40 PVC, or ABS sewer pipe (if I was to do it againm I'd use 4", or larger to be able to insert my hand all the way in  the tubing.)
 * Qty 1, 3 inch ABS cleanout plug (http://www.osh.com/Osh-Categories/Plumbing/Rough-Plumbing/Pipes-%26-Fittings/Abs-Fittings/Canplas-Cleanout-Plug%2C-3-Inch%2C-ABS/p/1447374).
 * Qty 1, # inch ABS counter sunk cleanout (http://www.osh.com/Osh-Categories/Plumbing/Rough-Plumbing/Pipes-%26-Fittings/Abs-Fittings/Canplas-Countersunk-Cleanout-Plug-With-O-Ring%2C-3-Inch%2C-ABS/p/1827690)
 * Qty 2, 3 inch adapters (http://www.osh.com/Osh-Categories/Plumbing/Rough-Plumbing/Pipes-%26-Fittings/Abs-Fittings/Canplas-Adapter%2C-3-Inch%2C-ABS/p/1447077)
