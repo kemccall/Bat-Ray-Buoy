@@ -7,16 +7,16 @@ All hardware is operational (in a prototype state) and the software runs the tur
 
 ## Hardware List
 
-* Arduino 101
-* Arduino GSM shield
+* Arduino 101 (if I did this again I'd used a [Particle.io devise] (https://www.particle.io/products/hardware/electron-cellular-2g-3g-lte), which can replace both the Arduino AND the GSM board cheaper and simpler! The only reason we used the Arduino 101 was because our marketing department wouldn't pay for a non Intel device. This ultimately led to so many complications that the project was never fully completed. 
+* Arduino GSM shield (if you must)
 * Battery w/solar charger would be nice.
-* Amphenol TSW-10 or TSD-10 turbidity sensor. These are used in household washing machines and cost about $3 each.
+* Amphenol TSW-10 or TSD-10 turbidity sensor. These are used in household washing machines and cost about $3 each. I spent a lot of time working with these and characterizing them under different conditions (3.3V supplies vs 5V, temperature extremes and such).
 * Dallas DS18B20 1 wire digital thermometer.
 * 3 inch outside diameter, schedule 40 PVC, or ABS sewer pipe (if I was to do it againm I'd use 4", or larger to be able to insert my hand all the way in  the tubing.)
 * Qty 1, 3 inch ABS cleanout plug (http://www.osh.com/Osh-Categories/Plumbing/Rough-Plumbing/Pipes-%26-Fittings/Abs-Fittings/Canplas-Cleanout-Plug%2C-3-Inch%2C-ABS/p/1447374).
 * Qty 1, # inch ABS counter sunk cleanout (http://www.osh.com/Osh-Categories/Plumbing/Rough-Plumbing/Pipes-%26-Fittings/Abs-Fittings/Canplas-Countersunk-Cleanout-Plug-With-O-Ring%2C-3-Inch%2C-ABS/p/1827690)
 * Qty 2, 3 inch adapters (http://www.osh.com/Osh-Categories/Plumbing/Rough-Plumbing/Pipes-%26-Fittings/Abs-Fittings/Canplas-Adapter%2C-3-Inch%2C-ABS/p/1447077)
-* http://www.homedepot.com/p/Project-Panels-FOAMULAR-1-in-x-2-ft-x-2-ft-R-5-Insulation-Sheathing-PP1/203553730
+* Faom insulation paneling materia. This was used as the original stability ring because it was so easy to work with.  http://www.homedepot.com/p/Project-Panels-FOAMULAR-1-in-x-2-ft-x-2-ft-R-5-Insulation-Sheathing-PP1/203553730
 
 ### Enclosure
 The enclosure is made of 3 inch ABS (or schedule 40 PVC) pipe and fittings with the exception of the stability ring. There's nothing particular about the ABS sewer pipe I used  other than it's inexpensive and readily available. You could use schedule 40 or 80 PVC, or different colored pipe. I would have liked clear PVC, but clear is considerably more expensive.
