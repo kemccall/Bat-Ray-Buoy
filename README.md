@@ -3,7 +3,7 @@
 An oceanographic (or waterways) data buoy containing a sensor to measure the water clarity (turbidity), correllate the turbidity with tide levels and then display the results on a mobile device.  The buoy will be deployed in the Encinal Basin. This correllation of tides and turbidity determines the optimal time for viewing bat rays in the Encinal Basin. 
 
 # Status
-All hardware is operational (in a prototype state) and the software runs the turbidity sensor. Awaiting GSM communications capabilities.
+All hardware is operational (in a prototype state) and the software runs the turbidity sensor. The code here is in a state where the GSM comm works and the sensro code works, but gettiing boith to work simultaneoulsy has not been accomplished.In all reality, if I were to switch to using the Particle platform this probably wouldn't be necessasry.
 
 ## Hardware List
 
