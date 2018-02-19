@@ -1,17 +1,17 @@
 # Overview
 
-An oceanographic (or waterways) data buoy containing a sensor to measure the water clarity (turbidity), correllate the turbidity with tide levels and then display the results on a mobile device.  The buoy will be deployed in the Encinal Basin. This correllation of tides and turbidity determines the optimal time for viewing bat rays in the Encinal Basin. 
+An oceanographic (or waterways) data buoy containing a sensor to measure the water clarity (turbidity), correllate the turbidity with tide levels and then display the results on a mobile device.  The buoy was to be be deployed in the Encinal Basin. This correllation of tides and turbidity determines the optimal time for viewing bat rays in the Encinal Basin. 
 
 # Status
-All hardware is operational (in a prototype state) and the software runs the turbidity sensor. The code here is in a state where the GSM comm works and the sensro code works, but gettiing boith to work simultaneoulsy has not been accomplished.In all reality, if I were to switch to using the Particle platform this probably wouldn't be necessasry.
+All hardware is operational (in a prototype state) and the software runs the turbidity sensor. The code here is in a state where the GSM comm works and the sensor code works, but gettiing both to work simultaneoulsy has not been accomplished. In all reality, if I were to switch to using the Particle platform this probably wouldn't be necessary. I think the Partricle board does everything including cellular communications very simply and cheaply.
 
 ## Hardware List
 
 * Arduino 101 (if I did this again I'd used a [Particle.io devise] (https://www.particle.io/products/hardware/electron-cellular-2g-3g-lte), which can replace both the Arduino AND the GSM board cheaper and simpler! The only reason we used the Arduino 101 was because our marketing department wouldn't pay for a non Intel device. This ultimately led to so many complications that the project was never fully completed. 
 * Arduino GSM shield (if you must)
 * Battery w/solar charger would be nice.
-* Amphenol TSW-10 or TSD-10 turbidity sensor. These are used in household washing machines and cost about $3 each. I spent a lot of time working with these and characterizing them under different conditions (3.3V supplies vs 5V, temperature extremes and such).
-* Dallas DS18B20 1 wire digital thermometer.
+* Amphenol TSW-10 or TSD-10 turbidity sensor. These are used in household washing machines and cost about $3 each. I spent a lot of time working with these and characterizing them under different conditions (3.3V supplies vs 5V, temperature extremes and such). Data sheets can be fooind here (https://www.mouser.com/ProductDetail/Amphenol-Advanced-Sensors/TSD-10?qs=cmBPKiaX3MylKvR%252bTrNAhw%3D%3D)
+* Dallas DS18B20 1 wire digital thermometer. (https://datasheets.maximintegrated.com/en/ds/DS18B20.pdf)
 * 3 inch outside diameter, schedule 40 PVC, or ABS sewer pipe (if I was to do it againm I'd use 4", or larger to be able to insert my hand all the way in  the tubing.)
 * Qty 1, 3 inch ABS cleanout plug (http://www.osh.com/Osh-Categories/Plumbing/Rough-Plumbing/Pipes-%26-Fittings/Abs-Fittings/Canplas-Cleanout-Plug%2C-3-Inch%2C-ABS/p/1447374).
 * Qty 1, # inch ABS counter sunk cleanout (http://www.osh.com/Osh-Categories/Plumbing/Rough-Plumbing/Pipes-%26-Fittings/Abs-Fittings/Canplas-Countersunk-Cleanout-Plug-With-O-Ring%2C-3-Inch%2C-ABS/p/1827690)
