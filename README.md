@@ -7,7 +7,7 @@ All hardware is operational (in a prototype state) and the software runs the tur
 
 ## Hardware List
 
-* Arduino 101 (if I did this again I'd used a [Particle.io devise] (https://www.particle.io/products/hardware/electron-cellular-2g-3g-lte), which can replace both the Arduino AND the GSM board cheaper and simpler! The only reason we used the Arduino 101 was because our marketing department wouldn't pay for a non Intel device. This ultimately led to so many complications that the project was never fully completed. 
+* Arduino 101 (if I did this again I'd used a [Particle.io devise] (https://www.particle.io/products/hardware/electron-cellular-2g-3g-lte), which can replace both the Arduino AND the GSM board cheaper and simpler! The only reason we used the Arduino 101 was because our marketing department wouldn't pay for a non Intel device. This ultimately led to so many complications that the project was never fully completed. You must use this!
 * Arduino GSM shield (if you must)
 * Battery w/solar charger would be nice.
 * Amphenol TSW-10 (5 V) or TSD-10 (3 V) turbidity sensor. I think the 5 volt works better just due to allowing a wider range of variation. These are used in household washing machines and cost about $3 each. I spent a lot of time working with these and characterizing them under different conditions (3.3V supplies vs 5V, temperature extremes and such). Data sheets can be found here (https://www.mouser.com/ProductDetail/Amphenol-Advanced-Sensors/TSD-10?qs=cmBPKiaX3MylKvR%252bTrNAhw%3D%3D)
